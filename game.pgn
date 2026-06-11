@@ -6,4 +6,4 @@
 [Black "loser"]
 [Result "1-0"]
 
-1. e4 e5 2. Qh5 Nc6 3. Bc4 Nf6 4. Qxf7#
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+ Ke8 8. Qh5+ g6 9. Qxc5 cxb2 10. Bxb2 a6 11. a3 (11. Bxh8) 11... a5 12. Bxh8
